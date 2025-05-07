@@ -31,7 +31,7 @@ export default function Rodape(props) {
                     <Image src={logoGoogle} alt="logo google" className={estilos.logos}></Image>
                 </div>
                 <div className={estilos.container_copyright}>
-                    <p>Copyright 2022 <span>Petterson Rodolpho</span></p>
+                    <p>Copyright 2025 <span>Petterson Rodolpho</span></p>
                 </div>
             </div>
         </footer>
